@@ -1,6 +1,5 @@
 # MySQL Workbench - C# Desktop Application
 
-![Ekran Görüntüsü](./MySqll.png)
 
 ## 📌 Tanıtım
 
